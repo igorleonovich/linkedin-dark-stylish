@@ -912,3 +912,7 @@ clearImage
 .social-details-social-counts__social-proof-text {
   background-color: rgba(0,0,0,0) !important;
 }
+
+div, span {
+  color: #fff !important;
+}
