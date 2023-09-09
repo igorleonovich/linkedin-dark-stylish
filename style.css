@@ -896,3 +896,7 @@ clearImage
 .organization-outlet .org-top-card-summary-info-list {
   color: #9e9e9e !important;
 }
+
+.artdeco-container-card {
+  background-color: rgba(0,0,0,0);
+}
