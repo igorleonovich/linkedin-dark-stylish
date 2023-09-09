@@ -898,5 +898,17 @@ clearImage
 }
 
 .artdeco-container-card {
-  background-color: rgba(0,0,0,0);
+  background-color: rgba(0,0,0,0) !important;
+}
+
+.update-components-header__text-view a {
+  color: #fff !important;
+}
+
+.comments-post-meta__profile-info-wrapper {
+  background: rgba(0,0,0,0) !important;
+}
+
+.social-details-social-counts__social-proof-text {
+  background-color: rgba(0,0,0,0) !important;
 }
