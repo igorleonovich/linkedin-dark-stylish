@@ -1,9 +1,10 @@
 # LinekedIn Dark (Stylish Theme)
 
-This theme is just a fix version of [LinkedDark by Jordy3D](https://userstyles.org/styles/173399/linkeddark).
+### Description
+- This theme can be used with [Stylish](https://userstyles.org/)
 
-Made for [Stylish](https://userstyles.org/)
+### Domains
+- linkedin.com
 
-Applied to [linkedin.com](https://linkedin.com)
-
+### Preview
 ![](./readme-resources/1.png)
